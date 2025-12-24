@@ -95,7 +95,7 @@ _If you have questions, want to collaborate, or just chat about cloud scaling, r
 
 
 - Name: Chandru Eswaran D
-- Email: [chandrudakshina@gmail.com](mailto:chandrudakshina@gmail.com)
+- Email: [chandrudakshina@gmail.com](mailto:chandrueswaran.d@gmail.com)
 - LinkedIn: [Linkedin/chandru-eswaran-d](https://www.linkedin.com/in/chandru-eswaran-d)
 - GitHub: [GitHub/ChandruEswaran](https://github.com/ChandruEswaran)
 
